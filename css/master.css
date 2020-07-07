@@ -1,4 +1,5 @@
 #otra_forma {color: orange;}
-h1, h2, h3 {color: orange;}
+h3 {color: orange;}
 .p_css{color: orange;}
+.grupo{background-color: grey;}
 /* NOTE: la forma de uso de los selectores y sus proiedades es igual */
